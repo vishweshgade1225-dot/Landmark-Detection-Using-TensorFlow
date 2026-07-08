@@ -129,3 +129,20 @@ Open the notebook in **Google Colab** or **Jupyter Notebook** and run all cells 
 **Vishwesh Gade**
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
+## 📊 Model Performance
+
+### Accuracy Graph
+
+![Accuracy](images/accuracy.png)
+
+### Loss Graph
+
+![Loss](images/loss.png)
+
+### Sample Prediction
+
+![Prediction](images/prediction.png)
+
+### Training Results
+
+![Training Results](images/training_results.png)
